@@ -20,7 +20,7 @@ import ForgotPassword from './Screens/ForgotPassword';
 import Home from './Screens/Home';
 import Login from './Screens/Login';
 import Main from './Screens/Main';
-import MyoPizza from './Screens/myoPizza/MyoPizza';
+import MyoPizza from './Screens/myoPizza/myoPizza';
 import OrderScreen from './Screens/OrderScreen/OrderScreen';
 import Orderslist from './Screens/Orderslist.js';
 import PasswordReset from './Screens/PasswordReset';

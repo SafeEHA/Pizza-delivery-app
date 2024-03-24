@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../../Components/Navbar/Navbar';
-import PizzaDisplay from '../../Components/PizzaDisplay/PizzaDisplay';
+import PizzaDisplay from '../../Components/pizzaDisplay/PizzaDisplay';
 import './styles.module.css';
 function Home() {
 	return (

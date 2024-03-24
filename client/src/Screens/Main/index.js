@@ -10,7 +10,7 @@ import {
 } from '@chakra-ui/react';
 import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
-import Typed from 'react-typed';
+import { Typed } from 'react-typed';
 import Navbar from '../../Components/Navbar/Navbar';
 import './styles.module.css';
 
